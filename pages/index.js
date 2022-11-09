@@ -12,6 +12,10 @@ export default function Home() {
       </Head>
 
       <h2>News app</h2>
+
+      <div>
+        <Image src="/images/news.png" alt="News" width={500} height={500} />
+      </div>
     </div>
   );
 }
